@@ -215,7 +215,7 @@ iw-proyecto/
 | Mama | Debito |
 | Hijo | Efectivo |
 
-### Deporte Favorito por Miembro (Bonus Senior)
+### Deporte Favorito por Miembro
 
 | Miembro | Deporte | Evidencia |
 |---------|---------|-----------|
