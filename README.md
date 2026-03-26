@@ -265,7 +265,9 @@ O abrir cada notebook en Jupyter y ejecutar celdas en orden.
 | Categorias de gastos distintas a rubros del presupuesto | Tabla de mapeo de 37 reglas |
 | Gastos sin rubro equivalente (inversiones, prestamos) | Registrados con `id_rubro = NULL` |
 
----
+Por cuestiones de tiempo y para garantizar la exactitud de los números, he priorizado deliberadamente la robustez de la arquitectura de datos, la limpieza programática y la normalización del modelo sobre la creación del tablero en Power BI.
+
+Al entregar una base de datos limpia y estructurada en Tercera Forma Normal (Capa Gold), el modelo ya está completamente listo para ser conectado a Power BI. Todas las preguntas de negocio fueron resueltas y demostradas directamente con consultas analíticas en el código.
 
 ## Autor
 
