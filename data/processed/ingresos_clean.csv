@@ -1,0 +1,6 @@
+fecha,descripcion,valor,forma_pago,miembro,mes_origen,tipo_ingreso
+2023-08-01,Contrato papa,10574000,Debito,papa,2023-08,contrato
+2023-09-01,Contrato papa,10574000,Debito,papa,2023-09,contrato
+2023-08-01,Contrato mama,8500000,Debito,mama,2023-08,contrato
+2023-09-01,Contrato mama,8500000,Debito,mama,2023-09,contrato
+2023-09-01,contrato hijo,2500000,efectivo,hijo,2023-09,contrato
